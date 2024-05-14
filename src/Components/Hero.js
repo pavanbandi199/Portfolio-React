@@ -1,6 +1,6 @@
 import React from 'react'
 import { HERO_CONTENT } from '../constants/constants'
-import heroimg from '../assets/heroimgcrop-transformed1.png'
+import heroimg from '../assets/heroimgcrop-transformedcrop.png'
 const Hero = () => {
   return (
     <div className=" lg:mb-36">
